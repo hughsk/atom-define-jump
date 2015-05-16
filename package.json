@@ -1,6 +1,6 @@
 {
   "name": "define-jump",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Atom plugin to jump to the local declaration of a variable. Similar to Atom's built in Symbols view, but local to the current file and without the need for any configuration.",
   "main": "index.js",
   "license": "MIT",
